@@ -23,11 +23,11 @@ padding: 8px;
 display: flex;
 flex-wrap: wrap;
 align-content: flex-start;
-gap: 8px;
+text-align: center;
+
 }
 
 footer{
-background-color: aqua;
 height: 50px;
 display: flex;
 justify-content: center;
